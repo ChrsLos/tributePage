@@ -1,0 +1,39 @@
+#main{
+    background-color:beige;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    font-family: 'Comfortaa', cursive;
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+}
+
+#img-div{
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#tribute-info{
+    background-color: #ffe4a3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+}
+
+img{
+    width: 50vw;
+    max-width: 1000px;
+    height: auto;
+    border-radius: 50px;
+}
+
+li{
+    margin: 5px;
+}
+
